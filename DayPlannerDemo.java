@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /** DayPlannerDemo class
  *
- * @author Shantaly
+ * @author Ahmed El Shantaly
  *
  */
 

@@ -1,6 +1,6 @@
 /** HomeActivity class
  *
- * @author Shantaly
+ * @author Ahmed El Shantaly
  *
  * A class for representing and comparing home activities.
  *

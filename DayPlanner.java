@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /** DayPlanner class
  *
- * @author Shantaly
+ * @author Ahmed El Shantaly
  *
  * A class that adds and searches activities.
  *
